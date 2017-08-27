@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Get-involveds on Namib GNU/Linux</title>
+    <link>https://namib.meerkat.tk/get-involved/</link>
+    <description>Recent content in Get-involveds on Namib GNU/Linux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Sep 2016 21:37:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://namib.meerkat.tk/get-involved/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Namib  GNU/Linux Sponsors</title>
+      <link>https://namib.meerkat.tk/get-involved/sponsor/</link>
+      <pubDate>Mon, 05 Sep 2016 21:37:11 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/get-involved/sponsor/</guid>
+      <description>This page is setup to show all the companies / people that are sponsoring the Namib GNU/Linux project with their kind donations.
+Many thanks to all of them!
+The Namib Team 😉</description>
+    </item>
+    
+    <item>
+      <title>frederic_c</title>
+      <link>https://namib.meerkat.tk/get-involved/team/frederic.c/</link>
+      <pubDate>Mon, 05 Sep 2016 03:35:48 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/get-involved/team/frederic.c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Team</title>
+      <link>https://namib.meerkat.tk/get-involved/team/</link>
+      <pubDate>Mon, 05 Sep 2016 03:30:07 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/get-involved/team/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

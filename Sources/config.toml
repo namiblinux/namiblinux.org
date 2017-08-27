@@ -1,0 +1,113 @@
+#baseurl = "https://namib.meerkat.tk/"
+baseurl = "localhost/public"
+languageCode = "en-us"
+title = "Namib GNU/Linux"
+theme = "hugo-creative-theme"
+
+[params]
+
+	name = "Namib GNU/Linux"
+	description = "Linux Distribution"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.png"
+
+ 	[params.language]
+		current = "English"
+
+		[[params.language.available]]
+			name = "English"
+			url = "https://namib.meerkat.tk/"
+
+	# Navigation
+	[params.navigation.main]
+		brand = "Namib"
+		about     = "About"
+		services  = "Features"
+		download = "Downloads"
+		contact   = "Contact"
+		donate   = "Donate"
+		news = "News"
+		support = "Support"
+		getinvolved = "Get involved"
+
+	[params.navigation.download]
+		home = "Overview"
+
+
+	[params.navigation.features]
+		home = "About Namib"
+
+	[params.navigation.news]
+		home = "Most recent news"
+		archives = "More archives"
+
+	[params.navigation.support]
+		home = "Overview"
+		wiki = "Wiki"
+		forum = "Forum"
+		email = "E-Mail"
+
+	[params.navigation.getinvolved]
+		home = "You can help!"
+		forum = "Forums"
+		donate = "Donate"
+		bugs = "Bugtracker"
+		team = "Our team"
+		sponsors = "Our sponsors"
+
+	# Hero section*
+	[params.hero]
+		image = "namib-logo.png"
+		slogan     = "Namib GNU/Linux"
+		subslogan = "Fast & Simple."
+		subtitle = "Arch Linux Made Simple"
+
+		callToAction = "Learn more about Namib"
+		callToActionUrl = "#about"
+		learnMore = "or download directly"
+		learnMoreUrl = "#downloads"
+
+	[params.posthome]
+		callToAction = "Download now"
+		callToActionUrl = ";baseurl;download"
+
+	[params.team]
+		name = "Name"
+		alias = "Alias"
+		role = "Role"
+		involvements = "Involements"
+		email = "E-Mail"
+		languages = "Languages"
+		location = "Location"
+		yob = "Year of birth"
+
+
+	# Calamares section
+	[params.calamares]
+		headline    = "The Calamares Installer (easy to use!)"
+
+	# Mate section
+	[params.mate]
+		headline    = "A beautiful and clean Mate Desktop"
+
+	# Applications section
+	[params.applications]
+		headline    = "Pre-installed Applications"
+
+	# Contact section
+	[params.donate]
+		headline = "Help us"
+		description = "Besides participating in discussions to improve Namib, helping other users or help developing new functions, you can always donate money to help keeping our infrastructure funded. Just a few bucks can help to keep our website and forums ad-free, reliable and secure."
+		conditions = "A donation counts as a private donation and is kept anonymous by us. That means that we won't share or publish any details about you and your donation. Donators get no rights or privileges - everybody can participate, whether they donated or not. Namib is still relatively young and a growing distribution - we are no registered organization. That means that we cannot give you a reciept that deduct taxes. For the same reason, the donation cannot go to a 'Namib GNU/Linux' organization, but goes to the head of the Namib team."
+
+		[params.donate.bitcoin]
+			address = "COMING SOON!"
+
+	[params.download_edition]
+		Download_sourceforge_title = "Sourceforge"
+		download_github_title = "Github"
+		Download_sourceforge_button = "Download on Sourceforge"
+		download_github_button = "Download on Github"
+		download_gpg = "Download GPG signature"
+		download_torrent = "Download Torrent"

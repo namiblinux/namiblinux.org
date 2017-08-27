@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Namib GNU/Linux</title>
+    <link>https://namib.meerkat.tk/</link>
+    <description>Recent content on Namib GNU/Linux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Sep 2016 00:36:21 +0200</lastBuildDate>
+    
+	<atom:link href="https://namib.meerkat.tk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Configured with one click</title>
+      <link>https://namib.meerkat.tk/features/tools/</link>
+      <pubDate>Tue, 06 Sep 2016 00:36:21 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/features/tools/</guid>
+      <description>Namib comes with it&amp;rsquo;s own tools that help you configuring your computer the way you want - without searching for scattered settings across the whole system and looking things up on the internet. Just open the system control panel, open the tool and select what you want.
+ Choose, install, finished! Namib maintains it&#39;s own program to install, update and remove packages from the system. Just open it, choose what you want and click &#39;install&#39;.</description>
+    </item>
+    
+    <item>
+      <title>Common problems</title>
+      <link>https://namib.meerkat.tk/support/commonproblems/</link>
+      <pubDate>Mon, 05 Sep 2016 21:03:22 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/commonproblems/</guid>
+      <description>Almost nothing is without problems and while our team and our community works hard to get rid of all problems they encounter, some might slip through the cracks or are caused by some external influences. Here are some common problems that other users encountered.
+If you encountered something that is not listed here, take a look at our bugtracker to see if you can provide more information to get rid of the problem.</description>
+    </item>
+    
+    <item>
+      <title>Fresh &amp; stable</title>
+      <link>https://namib.meerkat.tk/features/background/</link>
+      <pubDate>Tue, 06 Sep 2016 00:36:21 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/features/background/</guid>
+      <description>Manjaro based on the independently developed Arch operating system. Within the Linux community, Arch itself is renowned for being an exceptionally fast, powerful, and lightweight distribution that provides access to the very latest cutting edge – and bleeding edge – software. However, Arch is also aimed at more experienced or technically-minded users. As such, it is generally considered to be beyond the reach of those who lack the technical expertise (or persistence) required to use it.</description>
+    </item>
+    
+    <item>
+      <title>Namib  GNU/Linux Sponsors</title>
+      <link>https://namib.meerkat.tk/get-involved/sponsor/</link>
+      <pubDate>Mon, 05 Sep 2016 21:37:11 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/get-involved/sponsor/</guid>
+      <description>This page is setup to show all the companies / people that are sponsoring the Namib GNU/Linux project with their kind donations.
+Many thanks to all of them!
+The Namib Team 😉</description>
+    </item>
+    
+    <item>
+      <title>Namib IRC (English)</title>
+      <link>https://namib.meerkat.tk/support/chat/english/</link>
+      <pubDate>Mon, 05 Sep 2016 21:12:18 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/chat/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Namib IRC (French)</title>
+      <link>https://namib.meerkat.tk/support/chat/french/</link>
+      <pubDate>Mon, 05 Sep 2016 21:12:18 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/chat/french/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Namib IRC (German)</title>
+      <link>https://namib.meerkat.tk/support/chat/german/</link>
+      <pubDate>Mon, 05 Sep 2016 21:12:18 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/chat/german/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Namib IRC (Russian)</title>
+      <link>https://namib.meerkat.tk/support/chat/russian/</link>
+      <pubDate>Mon, 05 Sep 2016 21:12:18 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/chat/russian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chat</title>
+      <link>https://namib.meerkat.tk/support/chat/</link>
+      <pubDate>Mon, 05 Sep 2016 21:03:22 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/chat/</guid>
+      <description>Want to know something or help somebody? Join the chat! You can just join one of our chatrooms via web client or you can use an IRC chat program if you want.</description>
+    </item>
+    
+    <item>
+      <title>First steps</title>
+      <link>https://namib.meerkat.tk/support/firststeps/</link>
+      <pubDate>Mon, 05 Sep 2016 21:03:22 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/firststeps/</guid>
+      <description>Here are some first steps after you downloaded Namib. This guide covers only the basic steps, so if you want more information look into the Namib User Guide or the Namib Wiki.
+So you downloaded Namib as an ISO file. An ISO file contains all files Namib needs to start an installation compressed into a handy file, which you can then use to make a DVD or USB-Stick that can be run by your computer.</description>
+    </item>
+    
+    <item>
+      <title>User-Guide</title>
+      <link>https://namib.meerkat.tk/support/userguide/</link>
+      <pubDate>Mon, 05 Sep 2016 21:03:22 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/userguide/</guid>
+      <description>Download User Guide
+Our team and our community proudly present you the Namib User Guide, a over 100 page long book with everything new and advanced users can know about Namib. We cover following topics in our guide:
+          Preparation    • Getting Namib    • Downloading Namib    • Checking a downloaded disc image for errors    • Writing a disc image    Installation    • Installing Namib    • Booting the Live environment    • Assisted installation on a BIOS system with Calamares    • Manual installation on a BIOS system with Calamares    • Assisted installation on a UEFI system with Calamares    • Manual installation on a UEFI system with Calamares    • Dual-booting with Microsoft Windows 10    • Advanced installation methods    Using Namib    • Welcome to Namib    • The Namib desktop    • Getting help    • Maintaining your system    </description>
+    </item>
+    
+    <item>
+      <title>frederic_c</title>
+      <link>https://namib.meerkat.tk/get-involved/team/frederic.c/</link>
+      <pubDate>Mon, 05 Sep 2016 03:35:48 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/get-involved/team/frederic.c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Team</title>
+      <link>https://namib.meerkat.tk/get-involved/team/</link>
+      <pubDate>Mon, 05 Sep 2016 03:30:07 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/get-involved/team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>17.08</title>
+      <link>https://namib.meerkat.tk/download/1708/</link>
+      <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/download/1708/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>https://namib.meerkat.tk/news/</link>
+      <pubDate>Sun, 04 Sep 2016 15:50:20 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donate to Namib</title>
+      <link>https://namib.meerkat.tk/donate/</link>
+      <pubDate>Sun, 04 Sep 2016 15:50:15 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/donate/</guid>
+      <description>There are many ways you can help out Namib. One way is to donate a small amount of money, to help out covering some unavoidable cost, giving developers time and freedom to improve Namib&amp;rsquo;s features and to allow spreading word about Namib.
+Why does Namib ask for donations? Namib is not backed by some large corporation and solely held up by the team, the community and some sponsors that are willing to dedicate their time and resources to develop and improve Namib.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://namib.meerkat.tk/download/_additional_info_post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/download/_additional_info_post/</guid>
+      <description>You can also use Torrents to download Namib. Just download the *.torrent file and open it with a torrent program like qBittorrent
+Be secure We encourage you to check if the download was not modified by some malicious person or by an error while downloading. As a simple check, you can generate the SHA1-sum of the downloaded file and compare it with the one we provide you here. Here you can find information how to generate such a sum and check your downloaded files.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://namib.meerkat.tk/download/_additional_info_pre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/download/_additional_info_pre/</guid>
+      <description>There are two architectures available: 64 bit and 32 bit. If you don&amp;rsquo;t know which one you should choose, you can use 64 bit for more modern computers and 32 bit if you computer is an older model. If you don&amp;rsquo;t have enough information about your hardware, choose the 32 bit version, which will run on more hardware.
+Both editions have exactly the same features and support and this decision is only important if you need maximum performance.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://namib.meerkat.tk/download/_how_to_try/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/download/_how_to_try/</guid>
+      <description> Try it now You can try Namib without changing your running system by putting it on a USB stick or on a DVD. If you decide to install Namib, you can do it directly from this live-system.
+          Try Namib in a virtual machine within your current operating system    Try Namib by running it from a DVD or USB-Stick    Install Namib from a DVD or USB-Stick    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://namib.meerkat.tk/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/</guid>
+      <description>You don&amp;rsquo;t know where to start? We&amp;rsquo;ve something prepared for you! We put great effort into documenting Namib, making tutorials and answering common questions. Here you can find most of the information you need.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://namib.meerkat.tk/support/_quick_contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/_quick_contact/</guid>
+      <description>Do you need more help? Contact us! Our team and our community can help via a variety of different channels. Write us a mail or ask other users via chat or forums. We will be glad to help you!</description>
+    </item>
+    
+    <item>
+      <title>How to install drivers?</title>
+      <link>https://namib.meerkat.tk/support/commonproblems/howtodrivers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/commonproblems/howtodrivers/</guid>
+      <description>          You don&amp;rsquo;t need to download drivers from the internet    Manjaro provides an easy-to-use tool that will do all work for you.    More information about this in our wiki        Install proprietary drivers    • Search for &amp;ldquo;hardware&amp;rdquo; or &amp;ldquo;mhwd&amp;rdquo; in your application menu    • Open &amp;ldquo;Hardware detection&amp;rdquo;    • Click on &amp;ldquo;Auto-Install proprietary&amp;rdquo;    </description>
+    </item>
+    
+    <item>
+      <title>How to install software?</title>
+      <link>https://namib.meerkat.tk/support/commonproblems/howtoinstallsoftware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/commonproblems/howtoinstallsoftware/</guid>
+      <description>          You often don&amp;rsquo;t need to download software from the internet    Namib provides an easy-to-use tool that will do all work for you.    More information about this in our wiki        Search and install software    • Search for &amp;ldquo;pamac&amp;rdquo; in your application menu and open it    • Browse through the list or search using the search bar    • Right-click on the entry and select &amp;ldquo;install&amp;rdquo;    • Click on the &amp;ldquo;apply&amp;rdquo; button or one with a tick mark    More information about this in our wiki pages about Pamac    </description>
+    </item>
+    
+    <item>
+      <title>How to run something in terminal?</title>
+      <link>https://namib.meerkat.tk/support/commonproblems/howtoterminal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/commonproblems/howtoterminal/</guid>
+      <description>The terminal is a very powerful tool that almost never fails to work and does exactly the things you want from it. You don&amp;rsquo;t click on something in the terminal - You insert a command and it will do what the command say. Many Linux users like to provide solutions via terminal as it&amp;rsquo;s completely independent from the user interface (which you can heavily modify).
+Here are instructions to how to use the terminal to run some command:</description>
+    </item>
+    
+    <item>
+      <title>How to start the installation?</title>
+      <link>https://namib.meerkat.tk/support/commonproblems/howtoinstall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/commonproblems/howtoinstall/</guid>
+      <description>          Using the installer    Our first steps guide provides you further information    If you closed the Calamares dialog    In the Live User Desktop you can see an entry called &amp;ldquo;Install Namib GNU/Linux(Calamares)&amp;rdquo;    Click on it and wait until the installation assistant starts    Start Manjaro Welcome, again.        </description>
+    </item>
+    
+    <item>
+      <title>Laptop screen is too dark</title>
+      <link>https://namib.meerkat.tk/support/commonproblems/laptop_screen_dark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/commonproblems/laptop_screen_dark/</guid>
+      <description>          This is likely caused by your hardware manufacturer    More information about this in our wiki        Re-activate the backlight    Open a terminal and enter:    sudo sed &amp;quot;s/\(GRUB_CMDLINE_LINUX=\)\&amp;quot;\&amp;quot;/\1\&amp;quot;acpi_osi=Linux acpi_backlight=vendor\&amp;quot;/&amp;quot; /etc/default/grub -i; sudo update-grub    </description>
+    </item>
+    
+    <item>
+      <title>The Namib USB-stick or DVD won&#39;t boot</title>
+      <link>https://namib.meerkat.tk/support/commonproblems/cannot_boot_liveenv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/commonproblems/cannot_boot_liveenv/</guid>
+      <description>          Check if you closely followed the instructions    Our first steps guide provides you further information        Maybe your computer needs to be configured to be able to boot    Some manufacturers have by default disabled booting from other devices. If this is the case, you can refer to following information:    • How to Boot Your Computer From a Disc or USB Drive    • BIOS and UEFI - Namib Wiki    • Namib User Guide    </description>
+    </item>
+    
+    <item>
+      <title>Try it now</title>
+      <link>https://namib.meerkat.tk/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/download/</guid>
+      <description>For simplicity we have selected Mate for our flagship editions.
+We have editions that use technology that makes them very resource-efficient and makes them a good choice for old computers. As not everybody wants to have such an experience and likes a more traditional way how everything works, we have editions that focus on this traditional workflow.</description>
+    </item>
+    
+    <item>
+      <title>Under your control</title>
+      <link>https://namib.meerkat.tk/features/switch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/features/switch/</guid>
+      <description>As like many other Linux distributions, we believe that privacy, security and keeping control is one of the most valuable things for a user. We included some clever tools to achieve all the tasks that are needed to make room for actual work, entertainment and relaxing. But you, the user, will always be in control of your own computer. It&amp;rsquo;s your hardware and your operating system.
+Update when you want  Namib only shows a small notification if an update is available.</description>
+    </item>
+    
+    <item>
+      <title>Update or installation fails</title>
+      <link>https://namib.meerkat.tk/support/commonproblems/update_fails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/commonproblems/update_fails/</guid>
+      <description>Check if you are connected with the internet        Maybe the current mirror is not reachable    Open a terminal and enter:    sudo pacman-mirrors -g    More information about this in our wiki        Maybe the cache is full    Some editions come with a cache cleaner.</description>
+    </item>
+    
+    <item>
+      <title>Updating is very slow</title>
+      <link>https://namib.meerkat.tk/support/commonproblems/update_slow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/support/commonproblems/update_slow/</guid>
+      <description>          Check if your internet is not unstable or has some problems        Maybe the current mirror is slow    Open a terminal and enter:    sudo rankmirrors -n 6 /etc/pacman.d/mirrorlist    More information about this in our wiki        </description>
+    </item>
+    
+    <item>
+      <title>What is Namib GNU/Linux</title>
+      <link>https://namib.meerkat.tk/_quickfeatures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/_quickfeatures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is Namib?</title>
+      <link>https://namib.meerkat.tk/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/features/</guid>
+      <description>Namib is a user-friendly and open-source Linux distribution. It provides all the benefits of cutting edge software combined with a focus on user-friendliness and accessibility, making it suitable for newcomers as well as experienced Linux users.
+Core features           A simplifed, user-friendly installation process    Pre-installed desktop environments    Pre-installed graphical applications to easily install software and update your system    Pre-installed codecs to play multimedia files    Access to the lastest version of software    Access to the Arch User Repository (AUR) for more experienced users    How much does it cost?</description>
+    </item>
+    
+    <item>
+      <title>You can help! Yes - YOU!</title>
+      <link>https://namib.meerkat.tk/get-involved/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://namib.meerkat.tk/get-involved/</guid>
+      <description>Everybody can participate the way he or she wants! Do you like making graphics? Why not making some cool wallpapers, icons or new graphics for the website? You like helping people with their problems or pointing them out? In the forums you can solve other people&amp;rsquo;s problems or discuss about how Namib should be further improved. Or you can go to the bugtracker and point out current errors and problems.</description>
+    </item>
+    
+  </channel>
+</rss>
