@@ -154,6 +154,15 @@ Our team and our community proudly present you the Namib User Guide, a over 100 
     </item>
     
     <item>
+      <title>17.11</title>
+      <link>https://namib.meerkat.tk/download/1711/</link>
+      <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
+      
+      <guid>https://namib.meerkat.tk/download/1711/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>news</title>
       <link>https://namib.meerkat.tk/news/</link>
       <pubDate>Sun, 04 Sep 2016 15:50:20 +0200</pubDate>
@@ -226,7 +235,7 @@ Both editions have exactly the same features and support and this decision is on
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://namib.meerkat.tk/support/commonproblems/howtodrivers/</guid>
-      <description>          You don&amp;rsquo;t need to download drivers from the internet    Manjaro provides an easy-to-use tool that will do all work for you.    More information about this in our wiki        Install proprietary drivers    • Search for &amp;ldquo;hardware&amp;rdquo; or &amp;ldquo;mhwd&amp;rdquo; in your application menu    • Open &amp;ldquo;Hardware detection&amp;rdquo;    • Click on &amp;ldquo;Auto-Install proprietary&amp;rdquo;    </description>
+      <description>          Install proprietary drivers    • Search for &amp;ldquo;hardware&amp;rdquo; or &amp;ldquo;mhwd&amp;rdquo; in your application menu    • Open &amp;ldquo;Hardware detection&amp;rdquo;    • Click on &amp;ldquo;Auto-Install proprietary&amp;rdquo;    </description>
     </item>
     
     <item>
@@ -329,7 +338,7 @@ Update when you want  Namib only shows a small notification if an update is avai
       
       <guid>https://namib.meerkat.tk/features/</guid>
       <description>Namib is a user-friendly and open-source Linux distribution. It provides all the benefits of cutting edge software combined with a focus on user-friendliness and accessibility, making it suitable for newcomers as well as experienced Linux users.
-Core features           A simplifed, user-friendly installation process    Pre-installed desktop environments    Pre-installed graphical applications to easily install software and update your system    Pre-installed codecs to play multimedia files    Access to the lastest version of software    Access to the Arch User Repository (AUR) for more experienced users    How much does it cost?</description>
+Core features           A simplifed, user-friendly installation process    Pre-installed desktop environments    Pre-installed graphical applications to easily install software and update your system    Pre-installed codecs to play multimedia files    Automatic installation of the necessary software for your hardware (e.</description>
     </item>
     
     <item>

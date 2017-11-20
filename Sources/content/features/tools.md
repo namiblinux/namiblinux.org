@@ -19,3 +19,51 @@ Namib comes with it's own tools that help you configuring your computer the way 
     </div>
   </div>
 </section>
+<section id="locale" >
+  <div class="feature-screenshot-fan">
+    <div >
+    <h3>Namib speaks your language</h3>
+    If your native language isn't English, it's no problem for Namib. Just start our locale settings and select the language you want. After you logged out and in again, everything is exactly the way you want. We also offer you a special tool that automatically installs language packs for a variety of programs and notifies you if you can get translation sfor your favorite programs.
+    </div>
+    <img src=";baseurl;/img/applications/namib_locale.png"/>
+  </div>
+</section>
+<section id="mhwd" >
+  <div class="feature-screenshot-fan">
+    <img src=";baseurl;/img/applications/namib_mhwd.png"/>
+    <div>
+    <h3>New graphics card? One click and it's done</h3>
+    Namib comes with NHWD, the Namib Hardware Detection. If you need drivers for your hardware, just open it, click on "Auto Install" and wait until it's finished. That's it.
+    </div>
+  </div>
+</section>
+<section id="timeanddate" >
+  <div class="feature-screenshot-fan">
+    <div>
+    <h3>Traveling a lot?</h3>
+    If you need to change the timezone, because you are on holiday or you need to travel for your business, we provide you a handy tool to quickly switch the time settings to have more time to get things done or enjoy the free time.
+    </div>
+    <img src=";baseurl;/img/applications/namib_timeanddate.png"/>
+  </div>
+</section>
+<section id="useraccounts" >
+  <div class="feature-screenshot-fan">
+    <img src=";baseurl;/img/applications/namib_useraccounts.png"/>
+    <div>
+    <h3>Divide and conquer</h3>
+    If multiple people use your computer, just create an account for each of them. So everybody can have their own data and own privileges what they can and can't do.
+    </div>
+  </div>
+</section>
+<section id="kernel" >
+  <div class="feature-screenshot-fan">
+
+    <div>
+    <h3>Switch the core with one click</h3>
+    Power-users and people who need special features of the Linux Kernel that don't come with the default one can just switch to a different Kernel with one click. Do you make music or need other realtime features? Just switch to a RT-Kernel. Do you need the newest improved open-source graphics drivers? Just switch to a newer one. Namib let's you not only switch to another Kernel, but supports multiple installed kernels at the same time. Just re-boot your system and you can just switch between all installed Kernels in the boot menu.
+    </div>
+
+    <img src=";baseurl;/img/applications/namib_kernels.png"/>
+
+  </div>
+</section>
