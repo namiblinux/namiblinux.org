@@ -89,7 +89,7 @@ theme = "hugo-creative-theme"
 
 	# Mate section
 	[params.mate]
-		headline    = "A beautiful and clean Mate Desktop"
+		headline    = "A beautiful and clean Desktop"
 
 	# Applications section
 	[params.applications]
@@ -102,7 +102,7 @@ theme = "hugo-creative-theme"
 		conditions = "A donation counts as a private donation and is kept anonymous by us. That means that we won't share or publish any details about you and your donation. Donators get no rights or privileges - everybody can participate, whether they donated or not. Namib is still relatively young and a growing distribution - we are no registered organization. That means that we cannot give you a reciept that deduct taxes. For the same reason, the donation cannot go to a 'Namib GNU/Linux' organization, but goes to the head of the Namib team."
 
 		[params.donate.bitcoin]
-			address = "COMING SOON!"
+			address = "1GdrAeoA8GS2L3R4poPUpTtXyhXpJhaALK"
 
 	[params.download_edition]
 		Download_sourceforge_title = "Sourceforge"

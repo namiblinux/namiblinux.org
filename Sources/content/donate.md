@@ -12,7 +12,7 @@ There are many ways you can help out Namib. One way is to donate a small amount 
 
 ### Why does Namib ask for donations?
 
-Namib is not backed by some large corporation and solely held up by the team, the community and some sponsors that are willing to dedicate their time and resources to develop and improve Namib.
+Namib is not backed by some large corporation and solely held up by the team, the community that are willing to dedicate their time and resources to develop and improve Namib.
 
 ### For what will my donations used for?
 

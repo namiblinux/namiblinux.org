@@ -9,7 +9,7 @@
         </ul>
         <ul class="nav navbar-nav navbar-right">
 
-            {{ range .Site.Pages }}{{ if eq .Type "download-edition" }}{{ if in .Params.tags "official" }} {{ if in .Params.tags "preview" }} {{ else }}
+            {{ range .Site.Pages }}{{ if eq .Type "download-edition" }}{{ if in .Params.tags "mate" }} {{ if in .Params.tags "preview" }} {{ else }}
             <li>
                 <a class="page-scroll" href="{{ .Permalink }}">{{ .Params.name }}</a>
             </li>

@@ -83,6 +83,26 @@
   </url>
   
   <url>
+    <loc>https://namib.meerkat.tk/download/g1802/</loc>
+    <lastmod>2016-09-04T19:10:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://namib.meerkat.tk/download/k1802/</loc>
+    <lastmod>2016-09-04T19:10:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://namib.meerkat.tk/download/m1802/</loc>
+    <lastmod>2016-09-04T19:10:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://namib.meerkat.tk/download/x1802/</loc>
+    <lastmod>2016-09-04T19:10:54+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://namib.meerkat.tk/news/</loc>
     <lastmod>2016-09-04T15:50:20+02:00</lastmod>
   </url>
@@ -136,6 +156,12 @@
   </url>
   
   <url>
+    <loc>https://namib.meerkat.tk/tags/gnome/</loc>
+    <lastmod>2016-09-04T19:10:54+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://namib.meerkat.tk/support/commonproblems/howtodrivers/</loc>
   </url>
   
@@ -152,18 +178,24 @@
   </url>
   
   <url>
+    <loc>https://namib.meerkat.tk/tags/kde/</loc>
+    <lastmod>2016-09-04T19:10:54+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://namib.meerkat.tk/support/commonproblems/laptop_screen_dark/</loc>
+  </url>
+  
+  <url>
+    <loc>https://namib.meerkat.tk/tags/mate/</loc>
+    <lastmod>2016-09-04T19:10:54+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://namib.meerkat.tk/</loc>
     <lastmod>2016-09-06T00:36:21+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://namib.meerkat.tk/tags/official/</loc>
-    <lastmod>2016-09-04T19:10:54+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -205,6 +237,12 @@
   
   <url>
     <loc>https://namib.meerkat.tk/features/</loc>
+  </url>
+  
+  <url>
+    <loc>https://namib.meerkat.tk/tags/xfce/</loc>
+    <lastmod>2016-09-04T19:10:54+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
