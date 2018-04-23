@@ -311,6 +311,11 @@ aside {
     text-transform: lowercase;
     font-weight: 700;
     font-family: 'Comfortaa', cursive;
+    text-shadow: 0px 0px 10px white;
+}
+
+.index-header .header-content .header-content-inner h2 {
+    text-shadow: 0px 0px 10px white;
 }
 
 .index-header .header-content .header-content-inner hr {
@@ -322,6 +327,7 @@ aside {
     font-size: 16px;
     font-weight: 300;
     color: #222;
+    text-shadow: 0px 0px 10px white;
 }
 
 @media(min-width:768px) {

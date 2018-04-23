@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="Ruman" >
 <meta name="description" content="Linux Distribution">
-<meta name="generator" content="Hugo 0.36.1" />
+<meta name="generator" content="Hugo 0.39" />
 <title>Namib GNU/Linux</title>
 <!-- Favicon -->
 <link rel="shortcut icon" href="https://namib.meerkat.tk/favicon.png">
@@ -118,19 +118,19 @@
 
              
             <li>
-                <a class="page-scroll" href="https://namib.meerkat.tk/download/1708/">Mate 17.08</a>
+                <a class="page-scroll" href="https://namib.meerkat.tk/download/g1802/">Gnome 18.02</a>
             </li>
               
             <li>
-                <a class="page-scroll" href="https://namib.meerkat.tk/download/1709/">Mate 17.09</a>
-            </li>
-              
-            <li>
-                <a class="page-scroll" href="https://namib.meerkat.tk/download/1711/">Mate 17.11</a>
+                <a class="page-scroll" href="https://namib.meerkat.tk/download/k1802/">Kde 18.02</a>
             </li>
               
             <li>
                 <a class="page-scroll" href="https://namib.meerkat.tk/download/m1802/">Mate 18.02</a>
+            </li>
+              
+            <li>
+                <a class="page-scroll" href="https://namib.meerkat.tk/download/x1802/">Xfce 18.02</a>
             </li>
              
 
@@ -194,16 +194,10 @@
 }
 
 
-.editions-box-hideable-mate {
+.editions-box-hideable-lastest {
 }
 
-.editions-box-hideable-kde {
-}
-
-.editions-box-hideable-gnome {
-}
-
-.editions-box-hideable-xfce {
+.editions-box-hideable-older {
 }
 
 
@@ -265,26 +259,14 @@
 
 		
 
-		if (editions_filter_selected( "mate" )) {
-			tag_filter.push( "mate" );
+		if (editions_filter_selected( "lastest" )) {
+			tag_filter.push( "lastest" );
 		}
 
 		
 
-		if (editions_filter_selected( "kde" )) {
-			tag_filter.push( "kde" );
-		}
-
-		
-
-		if (editions_filter_selected( "gnome" )) {
-			tag_filter.push( "gnome" );
-		}
-
-		
-
-		if (editions_filter_selected( "xfce" )) {
-			tag_filter.push( "xfce" );
+		if (editions_filter_selected( "older" )) {
+			tag_filter.push( "older" );
 		}
 
 		
@@ -309,36 +291,22 @@
 
 <p>For example we have editions that use technology that makes them very resource-efficient and makes them a good choice for <em>old computers</em>. Other editions focus on breaking with user interface standards that are decades old and giving users a modern experience. As not everybody wants to have such an experience and likes a more traditional way how everything works, we have editions that focus on this <em>traditional workflow</em>.</p>
 
-<p><em>IF NOTHING APPEAR, BE SURE YOU SELECTED ONE FLAVOUR</em></p>
+<p><em>IF NOTHING APPEAR, BE SURE YOU SELECTED ONLY ONE</em></p>
 </p>
 
             <div style="padding: 20px 0px 40px 0px;">
             
 
 				<div class="editions-tag-checkbutton">
-					<input type="checkbox" id="show-editions-mate" onchange="update_editions_tags();" checked/>
-					<label for="show-editions-mate" class="btn btn-primary btn-xl" >Mate</label>
+					<input type="checkbox" id="show-editions-lastest" onchange="update_editions_tags();" checked/>
+					<label for="show-editions-lastest" class="btn btn-primary btn-xl" >Lastest</label>
 				</div>
 
             
 
 				<div class="editions-tag-checkbutton">
-					<input type="checkbox" id="show-editions-kde" onchange="update_editions_tags();" ZgotmplZ/>
-					<label for="show-editions-kde" class="btn btn-primary btn-xl" >Kde</label>
-				</div>
-
-            
-
-				<div class="editions-tag-checkbutton">
-					<input type="checkbox" id="show-editions-gnome" onchange="update_editions_tags();" ZgotmplZ/>
-					<label for="show-editions-gnome" class="btn btn-primary btn-xl" >Gnome</label>
-				</div>
-
-            
-
-				<div class="editions-tag-checkbutton">
-					<input type="checkbox" id="show-editions-xfce" onchange="update_editions_tags();" ZgotmplZ/>
-					<label for="show-editions-xfce" class="btn btn-primary btn-xl" >Xfce</label>
+					<input type="checkbox" id="show-editions-older" onchange="update_editions_tags();" ZgotmplZ/>
+					<label for="show-editions-older" class="btn btn-primary btn-xl" >Older</label>
 				</div>
 
             
@@ -349,7 +317,7 @@
                 <div class="row no-gutter">
 
                 	
-                    <div class="editions-box-hideable editions-box-hideable-mate  col-lg-4 col-sm-6">
+                    <div class="editions-box-hideable editions-box-hideable-older  col-lg-4 col-sm-6">
 
                         <a href="https://namib.meerkat.tk/download/1708/" class="editions-box editions-link" >
                             <img src="https://namib.meerkat.tk//img/editions/1708.png" class="img-responsive" alt="">
@@ -376,7 +344,7 @@
 		                    </div>
                         </a>
 
-                    </div><div class="editions-box-hideable editions-box-hideable-mate  col-lg-4 col-sm-6">
+                    </div><div class="editions-box-hideable editions-box-hideable-older  col-lg-4 col-sm-6">
 
                         <a href="https://namib.meerkat.tk/download/1709/" class="editions-box editions-link" >
                             <img src="https://namib.meerkat.tk//img/editions/1709.png" class="img-responsive" alt="">
@@ -403,7 +371,7 @@
 		                    </div>
                         </a>
 
-                    </div><div class="editions-box-hideable editions-box-hideable-mate  col-lg-4 col-sm-6">
+                    </div><div class="editions-box-hideable editions-box-hideable-older  col-lg-4 col-sm-6">
 
                         <a href="https://namib.meerkat.tk/download/1711/" class="editions-box editions-link" >
                             <img src="https://namib.meerkat.tk//img/editions/1711.png" class="img-responsive" alt="">
@@ -430,7 +398,7 @@
 		                    </div>
                         </a>
 
-                    </div><div class="editions-box-hideable editions-box-hideable-gnome  col-lg-4 col-sm-6">
+                    </div><div class="editions-box-hideable editions-box-hideable-lastest  col-lg-4 col-sm-6">
 
                         <a href="https://namib.meerkat.tk/download/g1802/" class="editions-box editions-link" >
                             <img src="https://namib.meerkat.tk//img/editions/g1802.png" class="img-responsive" alt="">
@@ -457,7 +425,7 @@
 		                    </div>
                         </a>
 
-                    </div><div class="editions-box-hideable editions-box-hideable-kde  col-lg-4 col-sm-6">
+                    </div><div class="editions-box-hideable editions-box-hideable-lastest  col-lg-4 col-sm-6">
 
                         <a href="https://namib.meerkat.tk/download/k1802/" class="editions-box editions-link" >
                             <img src="https://namib.meerkat.tk//img/editions/k1802.png" class="img-responsive" alt="">
@@ -484,7 +452,7 @@
 		                    </div>
                         </a>
 
-                    </div><div class="editions-box-hideable editions-box-hideable-mate  col-lg-4 col-sm-6">
+                    </div><div class="editions-box-hideable editions-box-hideable-lastest  col-lg-4 col-sm-6">
 
                         <a href="https://namib.meerkat.tk/download/m1802/" class="editions-box editions-link" >
                             <img src="https://namib.meerkat.tk//img/editions/m1802.png" class="img-responsive" alt="">
@@ -511,7 +479,7 @@
 		                    </div>
                         </a>
 
-                    </div><div class="editions-box-hideable editions-box-hideable-xfce  col-lg-4 col-sm-6">
+                    </div><div class="editions-box-hideable editions-box-hideable-lastest  col-lg-4 col-sm-6">
 
                         <a href="https://namib.meerkat.tk/download/x1802/" class="editions-box editions-link" >
                             <img src="https://namib.meerkat.tk//img/editions/x1802.png" class="img-responsive" alt="">

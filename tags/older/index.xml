@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mate on Namib GNU/Linux</title>
-    <link>https://namib.meerkat.tk/tags/mate/</link>
-    <description>Recent content in Mate on Namib GNU/Linux</description>
+    <title>Older on Namib GNU/Linux</title>
+    <link>https://namib.meerkat.tk/tags/older/</link>
+    <description>Recent content in Older on Namib GNU/Linux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Sep 2016 19:10:54 +0200</lastBuildDate>
     
-	<atom:link href="https://namib.meerkat.tk/tags/mate/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://namib.meerkat.tk/tags/older/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -35,15 +35,6 @@
       <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
       
       <guid>https://namib.meerkat.tk/download/1711/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>18.02</title>
-      <link>https://namib.meerkat.tk/download/m1802/</link>
-      <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
-      
-      <guid>https://namib.meerkat.tk/download/m1802/</guid>
       <description></description>
     </item>
     
