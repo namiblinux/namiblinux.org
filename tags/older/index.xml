@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Older on Namib GNU/Linux</title>
-    <link>https://namib.meerkat.tk/tags/older/</link>
+    <link>https://www.namiblinux.org/tags/older/</link>
     <description>Recent content in Older on Namib GNU/Linux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Sep 2016 19:10:54 +0200</lastBuildDate>
     
-	<atom:link href="https://namib.meerkat.tk/tags/older/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.namiblinux.org/tags/older/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>17.08</title>
-      <link>https://namib.meerkat.tk/download/1708/</link>
+      <link>https://www.namiblinux.org/download/1708/</link>
       <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/1708/</guid>
+      <guid>https://www.namiblinux.org/download/1708/</guid>
       <description></description>
     </item>
     
     <item>
       <title>17.09</title>
-      <link>https://namib.meerkat.tk/download/1709/</link>
+      <link>https://www.namiblinux.org/download/1709/</link>
       <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/1709/</guid>
+      <guid>https://www.namiblinux.org/download/1709/</guid>
       <description></description>
     </item>
     
     <item>
       <title>17.11</title>
-      <link>https://namib.meerkat.tk/download/1711/</link>
+      <link>https://www.namiblinux.org/download/1711/</link>
       <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/1711/</guid>
+      <guid>https://www.namiblinux.org/download/1711/</guid>
       <description></description>
     </item>
     

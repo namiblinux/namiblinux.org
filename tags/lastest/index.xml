@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lastest on Namib GNU/Linux</title>
-    <link>https://namib.meerkat.tk/tags/lastest/</link>
+    <link>https://www.namiblinux.org/tags/lastest/</link>
     <description>Recent content in Lastest on Namib GNU/Linux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Sep 2016 19:10:54 +0200</lastBuildDate>
     
-	<atom:link href="https://namib.meerkat.tk/tags/lastest/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.namiblinux.org/tags/lastest/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>18.02</title>
-      <link>https://namib.meerkat.tk/download/g1802/</link>
+      <link>https://www.namiblinux.org/download/g1802/</link>
       <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/g1802/</guid>
+      <guid>https://www.namiblinux.org/download/g1802/</guid>
       <description></description>
     </item>
     
     <item>
       <title>18.02</title>
-      <link>https://namib.meerkat.tk/download/k1802/</link>
+      <link>https://www.namiblinux.org/download/k1802/</link>
       <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/k1802/</guid>
+      <guid>https://www.namiblinux.org/download/k1802/</guid>
       <description></description>
     </item>
     
     <item>
       <title>18.02</title>
-      <link>https://namib.meerkat.tk/download/m1802/</link>
+      <link>https://www.namiblinux.org/download/m1802/</link>
       <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/m1802/</guid>
+      <guid>https://www.namiblinux.org/download/m1802/</guid>
       <description></description>
     </item>
     
     <item>
       <title>18.02</title>
-      <link>https://namib.meerkat.tk/download/x1802/</link>
+      <link>https://www.namiblinux.org/download/x1802/</link>
       <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/x1802/</guid>
+      <guid>https://www.namiblinux.org/download/x1802/</guid>
       <description></description>
     </item>
     

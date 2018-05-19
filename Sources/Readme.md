@@ -13,7 +13,7 @@ Source code of our new launch page for Namib GNU/Linux
 
 ## How to preview this current version
 
-* simply click on [here](https://namib.meerkat.tk/)
+* simply click on [here](https://www.namiblinux.org/)
 
 ## How to develop this homepage further
 

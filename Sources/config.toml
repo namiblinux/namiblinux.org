@@ -1,4 +1,4 @@
-#baseurl = "https://namib.meerkat.tk/"
+#baseurl = "https://www.namiblinux.org/"
 baseurl = "localhost/public"
 languageCode = "en-us"
 title = "Namib GNU/Linux"
@@ -17,7 +17,7 @@ theme = "hugo-creative-theme"
 
 		[[params.language.available]]
 			name = "English"
-			url = "https://namib.meerkat.tk/"
+			url = "https://www.namiblinux.org/"
 
 	# Navigation
 	[params.navigation.main]

@@ -2,104 +2,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Downloads on Namib GNU/Linux</title>
-    <link>https://namib.meerkat.tk/download/</link>
+    <link>https://www.namiblinux.org/download/</link>
     <description>Recent content in Downloads on Namib GNU/Linux</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Sep 2016 19:10:54 +0200</lastBuildDate>
     
-	<atom:link href="https://namib.meerkat.tk/download/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.namiblinux.org/download/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>17.08</title>
-      <link>https://namib.meerkat.tk/download/1708/</link>
+      <link>https://www.namiblinux.org/download/1708/</link>
       <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/1708/</guid>
+      <guid>https://www.namiblinux.org/download/1708/</guid>
       <description></description>
     </item>
     
     <item>
       <title>17.09</title>
-      <link>https://namib.meerkat.tk/download/1709/</link>
+      <link>https://www.namiblinux.org/download/1709/</link>
       <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/1709/</guid>
+      <guid>https://www.namiblinux.org/download/1709/</guid>
       <description></description>
     </item>
     
     <item>
       <title>17.11</title>
-      <link>https://namib.meerkat.tk/download/1711/</link>
+      <link>https://www.namiblinux.org/download/1711/</link>
       <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/1711/</guid>
+      <guid>https://www.namiblinux.org/download/1711/</guid>
       <description></description>
     </item>
     
     <item>
       <title>18.02</title>
-      <link>https://namib.meerkat.tk/download/g1802/</link>
+      <link>https://www.namiblinux.org/download/g1802/</link>
       <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/g1802/</guid>
+      <guid>https://www.namiblinux.org/download/g1802/</guid>
       <description></description>
     </item>
     
     <item>
       <title>18.02</title>
-      <link>https://namib.meerkat.tk/download/k1802/</link>
+      <link>https://www.namiblinux.org/download/k1802/</link>
       <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/k1802/</guid>
+      <guid>https://www.namiblinux.org/download/k1802/</guid>
       <description></description>
     </item>
     
     <item>
       <title>18.02</title>
-      <link>https://namib.meerkat.tk/download/m1802/</link>
+      <link>https://www.namiblinux.org/download/m1802/</link>
       <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/m1802/</guid>
+      <guid>https://www.namiblinux.org/download/m1802/</guid>
       <description></description>
     </item>
     
     <item>
       <title>18.02</title>
-      <link>https://namib.meerkat.tk/download/x1802/</link>
+      <link>https://www.namiblinux.org/download/x1802/</link>
       <pubDate>Sun, 04 Sep 2016 19:10:54 +0200</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/x1802/</guid>
+      <guid>https://www.namiblinux.org/download/x1802/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://namib.meerkat.tk/download/_additional_info_post/</link>
+      <link>https://www.namiblinux.org/download/_additional_info_post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/_additional_info_post/</guid>
+      <guid>https://www.namiblinux.org/download/_additional_info_post/</guid>
       <description>You can also use Torrents to download Namib. Just download the *.torrent file and open it with a torrent program like qBittorrent
 Be secure We encourage you to check if the download was not modified by some malicious person or by an error while downloading. As a simple check, you can generate the SHA1-sum of the downloaded file and compare it with the one we provide you here. Here you can find information how to generate such a sum and check your downloaded files.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://namib.meerkat.tk/download/_additional_info_pre/</link>
+      <link>https://www.namiblinux.org/download/_additional_info_pre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/_additional_info_pre/</guid>
+      <guid>https://www.namiblinux.org/download/_additional_info_pre/</guid>
       <description>There are two architectures available: 64 bit and 32 bit. If you don&amp;rsquo;t know which one you should choose, you can use 64 bit for more modern computers and 32 bit if you computer is an older model. If you don&amp;rsquo;t have enough information about your hardware, choose the 32 bit version, which will run on more hardware.
 Both editions have exactly the same features and support and this decision is only important if you need maximum performance.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://namib.meerkat.tk/download/_how_to_try/</link>
+      <link>https://www.namiblinux.org/download/_how_to_try/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://namib.meerkat.tk/download/_how_to_try/</guid>
+      <guid>https://www.namiblinux.org/download/_how_to_try/</guid>
       <description> Try it now You can try Namib without changing your running system by putting it on a USB stick or on a DVD. If you decide to install Namib, you can do it directly from this live-system.
           Try Namib in a virtual machine within your current operating system    Try Namib by running it from a DVD or USB-Stick    Install Namib from a DVD or USB-Stick    </description>
     </item>

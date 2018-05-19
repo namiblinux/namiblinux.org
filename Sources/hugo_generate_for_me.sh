@@ -1,3 +1,3 @@
 #!/bin/bash
 
-hugo -b "https://namib.meerkat.tk/"
+hugo -b "https://www.namiblinux.org/"
