@@ -1,3 +1,3 @@
 #!/bin/bash
 
-hugo -b "https://www.namiblinux.org"
+hugo -b "https://www.namiblinux.org/"
