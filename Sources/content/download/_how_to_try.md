@@ -8,6 +8,6 @@ You can try Namib without changing your running system by putting it on a USB st
 
 |   |   |
 |---|---|
-| ![Icon](;baseurl;/img/try/desktop.svg) | Try Namib in a [virtual machine](;baseurl;support/firststeps#branching-paths) within your current operating system  |
-| ![Icon](;baseurl;/img/try/usb.svg) | Try Namib by [running it](;baseurl;support/firststeps#branching-paths) from a DVD or USB-Stick  |
-| ![Icon](;baseurl;/img/try/desktop.svg) | [Install](;baseurl;support/firststeps#branching-paths) Namib  from a DVD or USB-Stick  |
+| ![Icon](;baseurl;/img/try/desktop.svg) | Try Namib in a virtual machine within your current operating system  |
+| ![Icon](;baseurl;/img/try/usb.svg) | Try Namib by running it from a DVD or USB-Stick  |
+| ![Icon](;baseurl;/img/try/desktop.svg) | Install Namib  from a DVD or USB-Stick  |

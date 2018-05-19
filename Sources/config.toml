@@ -54,7 +54,6 @@ theme = "hugo-creative-theme"
 		donate = "Donate"
 		bugs = "Bugtracker"
 		team = "Our team"
-		sponsors = "Our sponsors"
 
 	# Hero section*
 	[params.hero]

@@ -1,13 +1,14 @@
 {
   "type" : "support",
   "supportentries" : [
-    { "name" : "First steps", "link" : ";baseurl;support/firststeps", "img" : ";baseurl;/img/contact/documentation.svg" },
-    { "name" : "Namib User Guide", "link" : ";baseurl;support/userguide", "img" : ";baseurl;/img/contact/documentation.svg" },
-    { "name" : "Frequently asked questions", "link" : "https://wiki.meerkat.tk/index.php/Namib_FAQ", "img" : ";baseurl;/img/contact/documentation.svg" }
+    { "name" : "softwaremeerkat@gmail.com", "link" : "mailto:softwaremeerkat@gmail.com", "img" : ";baseurl;/img/contact/mail.svg" },
+    { "name" : "Forum", "link" : "https://forum.namiblinux.org/categories/", "img" : ";baseurl;/img/contact/forum.svg" },
+    { "name" : "Chat", "link" : ";baseurl;support/chat", "img" : ";baseurl;/img/contact/irc.svg" }
   ]
 }
 
-## You don't know where to start? We've something prepared for you!
+## Do you need more help? Contact us!
 ---
 
-We put great effort into documenting Namib, making tutorials and answering common questions. Here you can find most of the information you need.
+Our team and our community can help via a variety of different channels.
+Write us a mail or ask other users via chat or forums. We will be glad to help you!

@@ -4,13 +4,11 @@ title = "Chat"
 type = "support-chat"
 right = true
 navsection = "support"
-info_irc_data = "You can use following data if you don't want to use the webclient:"
-irc_data_text_server = "Server"
+info_irc_data = "There's the complete list of Telegram groups:"
 irc_data_text_channel = "Channel"
-irc_data_text_port = "Port"
 +++
 
 ## Want to know something or help somebody? Join the chat!
 ---
 
-You can just join one of our chatrooms via web client or you can use an IRC chat program if you want.
+You can just join one of our chatrooms via web client or you can use an telegram program if you want.

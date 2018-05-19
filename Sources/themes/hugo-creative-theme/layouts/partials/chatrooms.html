@@ -9,7 +9,7 @@
             {{ range (where .Site.Pages ".Type" "chat-channel") }}
             <div class="col-lg-4 text-center">
                 <img src="{{ .Site.BaseURL }}/img/contact/irc.svg" class="wow bounceIn bouncy-icon"/>
-                <p><a href="http://webchat.freenode.net/?channels=%23{{ .Params.channel }}" target="_blank">{{ .Title }}</a></p>
+                <p><a href="http://t.me/{{ .Params.channel }}" target="_blank">{{ .Title }}</a></p>
             </div>
             {{ end }}
 
