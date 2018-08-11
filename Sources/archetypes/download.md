@@ -8,10 +8,10 @@ ShortDescription = ""
 
 Version = ""
 
-Download_github = ""
-Download_github_Torrent = ""
-Download_github_Sig = ""
-Download_github_Checksum = ""
+Download_osdn = ""
+Download_osdn_Torrent = ""
+Download_osdn_Sig = ""
+Download_osdn_Checksum = ""
 
 Download_sourceforge = ""
 Download_sourceforge_Torrent = ""

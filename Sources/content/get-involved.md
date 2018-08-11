@@ -3,11 +3,11 @@
   "title" : "You can help! Yes - YOU!",
   "involvements" : [
     { "name" : "Help developing Namib", "link" : "https://github.com/namiblinux", "img" : ";baseurl;/img/contact/github.svg" },
-    { "name" : "Help other users via forums", "link" : "https://forum.namiblinux.org/categories/", "img" : ";baseurl;/img/contact/forum.svg" },
+    { "name" : "Help other users via forums", "link" : "https://forum.namiblinux.org/", "img" : ";baseurl;/img/contact/forum.svg" },
     { "name" : "Help other users via chat", "link" : ";baseurl;support/chat", "img" : ";baseurl;/img/contact/irc.svg" },
     { "name" : "Help improving the Wiki", "link" : "https://wiki.namiblinux.org/", "img" : ";baseurl;/img/contact/documentation.svg" },
     { "name" : "Help keeping Namib alive", "link" : ";baseurl;donate", "img" : ";baseurl;/img/contact/donate.svg" },
-    { "name" : "Point out bugs", "link" : "https://forum.namiblinux.org/category/23/bug-report/", "img" : ";baseurl;/img/contact/bugs.svg" }
+    { "name" : "Point out bugs", "link" : "https://forum.namiblinux.org/c/namib-development/bug-report", "img" : ";baseurl;/img/contact/bugs.svg" }
   ]
 }
 

@@ -105,8 +105,8 @@ theme = "hugo-creative-theme"
 
 	[params.download_edition]
 		Download_sourceforge_title = "Sourceforge"
-		download_github_title = "Github"
+		download_osdn_title = "OSDN"
 		Download_sourceforge_button = "Download on Sourceforge"
-		download_github_button = "Download on Github"
+		download_osdn_button = "Download on OSDN"
 		download_gpg = "Download GPG signature"
 		download_torrent = "Download Torrent"

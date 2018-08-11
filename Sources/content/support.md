@@ -2,7 +2,7 @@
   "type" : "support",
   "supportentries" : [
     { "name" : "softwaremeerkat@gmail.com", "link" : "mailto:softwaremeerkat@gmail.com", "img" : ";baseurl;/img/contact/mail.svg" },
-    { "name" : "Forum", "link" : "https://forum.namiblinux.org/categories/", "img" : ";baseurl;/img/contact/forum.svg" },
+    { "name" : "Forum", "link" : "https://forum.namiblinux.org/", "img" : ";baseurl;/img/contact/forum.svg" },
     { "name" : "Chat", "link" : ";baseurl;support/chat", "img" : ";baseurl;/img/contact/irc.svg" }
   ]
 }
